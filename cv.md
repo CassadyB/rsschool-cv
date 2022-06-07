@@ -25,7 +25,7 @@ Also, I have four years of experience as an industrial psychologist. Graduated w
  return a * b
 }`
 ##### Project:
-https://GITHUB-USERNAME.CassadyB.io/rsschool-cv/cv
+https://CassadyB.github.io/rsschool-cv/cv
 
 ###### Languages 
 Russian Native
