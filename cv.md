@@ -10,7 +10,7 @@
 
 ---
 ## Skills
-- Git-Hub, VSCode
+- Git, VSCode
 - HTML, CSS
 - Blender
 - lecturing, team-building and counseling as psychologiest 
